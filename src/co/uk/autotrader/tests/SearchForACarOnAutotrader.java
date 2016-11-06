@@ -22,6 +22,7 @@ public class SearchForACarOnAutotrader extends AutotraderBaseClass
 	private String minPrice;
 	private String maxPrice;
 	private String path;
+	private String path2;
 	
 	@Before
 	public void SetUp() throws Exception
